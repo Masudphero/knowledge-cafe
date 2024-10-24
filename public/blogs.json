@@ -1,0 +1,43 @@
+[
+    {
+        "id": "001",
+        "cover": "https://i.ibb.co.com/0CGc0Gf/high.jpg",
+        "title": "Exploring the Hidden Gems of New York City",
+        "author": "Jane Smith",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "2024-10-15",
+        "reading_time": "6 min",
+        "hashtags": ["#Travel", "#NewYork", "#CityGuides"]
+    },
+    {
+        "id": "002",
+        "cover": "https://example.com/cover2.jpg",
+        "title": "10 Tips for Sustainable Living in 2024",
+        "author": "John Doe",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2024-10-12",
+        "reading_time": "8 min",
+        "hashtags": ["#Sustainability", "#EcoLiving", "#GreenTips"]
+    },
+    {
+        "id": "003",
+        "cover": "https://i.ibb.co.com/0CGc0Gf/high.jpg",
+        "title": "Mastering the Art of Italian Cooking",
+        "author": "Maria Rossi",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2024-10-10",
+        "reading_time": "12 min",
+        "hashtags": ["#Cooking", "#ItalianCuisine", "#Foodie"]
+    },
+    {
+        "id": "004",
+        "cover": "https://i.ibb.co.com/0CGc0Gf/high.jpg",
+        "title": "A Beginner's Guide to Digital Photography",
+        "author": "Alex Johnson",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2024-10-20",
+        "reading_time": "5 min",
+        "hashtags": ["#Photography", "#DigitalArt", "#BeginnersGuide"]
+    }
+    
+]
